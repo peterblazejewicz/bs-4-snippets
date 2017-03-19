@@ -1,0 +1,21 @@
+{
+    "name": "bs-4-snippets",
+    "displayName": "bs-4-snippets",
+    "description": "Bootstrap 4 snippets",
+    "version": "0.0.1",
+    "publisher": "blazejewicz",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
